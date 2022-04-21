@@ -48,7 +48,7 @@ include_once 'sidebar.php';
               </div>
 
                <!-- Default box -->
-            <div class="card">
+           <div class="card">
               <div class="card-header">
                 <h3 class="card-title">Class Nilai Mahasiswa</h3>
                 <div class="card-tools">
